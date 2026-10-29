@@ -1,0 +1,15 @@
+Day,Date,Data_Used_MB,Social_Media_MB,Video_Streaming_MB,WiFi_Available,Battery_Used_Percent
+1,Mon Oct 7,450,180,150,Yes,72
+2,Tue Oct 8,320,120,90,Yes,58
+3,Wed Oct 9,680,200,350,No,95
+4,Thu Oct 10,410,160,140,Yes,65
+5,Fri Oct 11,550,210,200,Yes,80
+6,Sat Oct 12,390,150,120,Yes,62
+7,Sun Oct 13,720,280,380,No,98
+8,Mon Oct 14,480,190,160,Yes,75
+9,Tue Oct 15,600,220,280,Yes,88
+10,Wed Oct 16,420,170,130,Yes,68
+11,Thu Oct 17,510,200,180,No,82
+12,Fri Oct 18,640,250,310,Yes,91
+13,Sat Oct 19,470,180,170,Yes,70
+14,Sun Oct 20,760,290,400,No,99
